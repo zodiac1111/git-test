@@ -3,6 +3,7 @@ int main(int argc, const char *argv[])
 {
 	int i;
 	i=1;	
+	fun1();
 	return 0;
 }
 void fun1(void)
