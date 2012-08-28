@@ -1,4 +1,5 @@
 #define N 3
+#definfe M 4
 void fun1(void);
 int main(int argc, const char *argv[])
 {
