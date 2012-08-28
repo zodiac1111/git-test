@@ -1,5 +1,6 @@
 #define N 3
-#definfe M 4
+#define M 4
+#define NUMBER 5
 void fun1(void);
 int main(int argc, const char *argv[])
 {
