@@ -5,6 +5,7 @@ void fun1(void);
 int main(int argc, const char *argv[])
 {
 	int i;
+	int j;
 	i=1;	
 	fun1();
 	i=N;
